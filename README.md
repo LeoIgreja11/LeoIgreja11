@@ -19,9 +19,9 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 
 ### 📂 Projetos em destaque
 
-- 🔧 [`riscv-cpu`](https://github.com/seuusuario/riscv-cpu): Um processador **RISC-V** simples feito do zero **(EM DESENVOLVIMENTO)**
-- 🧠 [`esp32-environmental-monitor`](https://github.com/seuusuario/esp32-environmental-monitor): Dispositivo embarcado para **enriquecimento ambiental na suinocultura**
-- 📡 [`python-automation-scripts`](https://github.com/seuusuario/python-automation-scripts): Scripts de automação em Python para tarefas do dia a dia
+- 🔧 [`riscv-cpu`](https://github.com/LeoIgreja11/verilog_projects): Um processador **RISC-V** simples feito do zero **(EM DESENVOLVIMENTO)**
+- 🧠 [`esp32-pigpull`](https://github.com/LeoIgreja11/PigPull): Dispositivo embarcado para **enriquecimento ambiental na suinocultura**
+- 📡 [`python-automation-scripts`](https://github.com/LeoIgreja11/scripts_python): Scripts de automação em Python para tarefas do dia a dia
 
 ---
 
