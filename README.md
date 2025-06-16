@@ -27,4 +27,4 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 
 ### 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&count_private=true&hide=html&layout=compact&theme=radical)
