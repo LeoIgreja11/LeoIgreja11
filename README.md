@@ -3,7 +3,7 @@
 Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho com:
 
 - 🔌 **Verilog** para FPGAs, design digital e futuramente design analógico
-- ⚙️ **C** para microcontroladores (AVR, STM32, ESP32)
+- ⚙️ **C** para microcontroladores (ESP32)
 - 🧠 Interesse por design de CPU, SoC, ASIC e FPGA
 
 ---
