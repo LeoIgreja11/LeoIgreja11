@@ -23,8 +23,3 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 - 🧠 [`esp32-pigpull`](https://github.com/LeoIgreja11/PigPull): Dispositivo embarcado para **enriquecimento ambiental na suinocultura**
 - 📡 [`python-automation-scripts`](https://github.com/LeoIgreja11/scripts_python): Scripts de automação em Python para tarefas do dia a dia
 
----
-
-### 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&count_private=true&hide=html&layout=compact&theme=radical)
