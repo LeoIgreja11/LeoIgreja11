@@ -19,7 +19,7 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 
 ### 📂 Projetos em destaque
 
-- 🔧 [`tiny NPU`](https://github.com/LeoIgreja11/verilog_projects): Um Protocolo UART **(EM DESENVOLVIMENTO)**
+- 🔧 [`Uart Protocol`](https://github.com/LeoIgreja11/verilog_projects): Um Protocolo UART **(EM DESENVOLVIMENTO)**
 - 🧠 [`esp32-pigpull`](https://github.com/LeoIgreja11/PigPull): Dispositivo embarcado para **enriquecimento ambiental na suinocultura**
 - 📡 [`python-automation-scripts`](https://github.com/LeoIgreja11/scripts_python): Scripts de automação em Python para tarefas do dia a dia
 
