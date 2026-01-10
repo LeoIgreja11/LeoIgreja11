@@ -27,6 +27,8 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 
 ### 💻 Estatísticas do Meu Perfil
 
-https://github-readme-stats.vercel.app/api?username=LeoIgreja11
+![Metrics](https://github.com/LeoIgreja11/LeoIgreja11/blob/main/github-metrics.svg)
+
+
 
 
