@@ -32,11 +32,5 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeoIgreja11&layout=compact&theme=dark)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeoIgreja11&theme=dark)
-
-
-![Metrics](https://github.com/LeoIgreja11/LeoIgreja11/blob/main/github-metrics.svg)
-
-
 
 
