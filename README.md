@@ -12,15 +12,13 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-orange)
 ![C](https://img.shields.io/badge/C-Embedded-blue)
-![Python](https://img.shields.io/badge/Python-Automation-yellow)
 
 ---
 
 ### 📂 Projetos em destaque
 
-- 🔧 [`Uart Protocol`](https://github.com/LeoIgreja11/verilog_projects): Protocolo UART **(EM DESENVOLVIMENTO)**
+- 🔧 [`RISC-V CPU Architecture`](https://github.com/LeoIgreja11/CPU-RISCV): CPU com arquitura RISC-V **(EM DESENVOLVIMENTO)**
 - 🧠 [`esp32-pigpull`](https://github.com/LeoIgreja11/PigPull): Dispositivo embarcado para **enriquecimento ambiental na suinocultura**
-- 📡 [`python-automation-scripts`](https://github.com/LeoIgreja11/scripts_python): Scripts de automação em Python para tarefas do dia a dia
 
 ---
 
