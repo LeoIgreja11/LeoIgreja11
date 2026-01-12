@@ -13,7 +13,6 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-orange)
 ![C](https://img.shields.io/badge/C-Embedded-blue)
 ![Python](https://img.shields.io/badge/Python-Automation-yellow)
-![Automation](https://img.shields.io/badge/Automation-Scripts-green)
 
 ---
 
