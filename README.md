@@ -6,7 +6,9 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 - ⚙️ **C** para microcontroladores (ESP32)
 - 🧠 Interesse por design de CPU, SoC, ASIC e FPGA
 
-![gif](https://raw.githubusercontent.com/LeoIgreja11/LeoIgreja11/main/assets/chip.gif)
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/LeoIgreja11/LeoIgreja11/main/assets/chip.gif" width="300">
+</p>
 
 ---
 
