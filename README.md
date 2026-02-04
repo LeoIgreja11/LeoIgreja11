@@ -1,4 +1,4 @@
-### 👋 Olá! Eu sou estudante de engenharia elétrica e entusiasta de microeletrônica e sistemas embarcados
+### Sou estudante de engenharia elétrica e entusiasta de microeletrônica e sistemas embarcados
 
 Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho com:
 
