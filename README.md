@@ -21,7 +21,7 @@ Sou um programador de Verilog, C, C++ e em alguns scripts em python. Trabalho co
 
 ### 📂 Projetos em destaque
 
-- 🔧 [`RISC-V CPU Architecture`](https://github.com/LeoIgreja11/CPU-RISCV): CPU com arquitura RISC-V **(EM DESENVOLVIMENTO)**
+- 🔧 [`RISC-V Single Cycle Core`](https://github.com/LeoIgreja11/RISC-V_Single_Cycle_Core): CPU com arquitura RISC-V **(EM DESENVOLVIMENTO)**
 - 🧠 [`esp32-pigpull`](https://github.com/LeoIgreja11/PigPull): Dispositivo embarcado para **enriquecimento ambiental na suinocultura**
 
 ---
